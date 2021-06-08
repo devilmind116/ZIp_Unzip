@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "ZIp_Unzip": {
+      "commandName": "Project",
+      "remoteDebugEnabled": false
+    }
+  }
+}
